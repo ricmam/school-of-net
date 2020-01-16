@@ -1,0 +1,21 @@
+@charset "utf-8"; 
+
+header#singelo {font-family: Arial, sans-serif; 
+                   background-color: #FFC79A; 
+                   color: rgba(0,0,0,1); 
+                   } 
+
+h3 {text-align: justify; 
+     background-color: #0040FF; 
+     color: #FF7878;} 
+
+ h3 hover {text-decoration: underline; 
+ opacity: 1;} 
+
+ h2 { background-color: #FFC79A; 
+      font-family: Arial, sans-serif; } 
+
+ h1 { font-size: 20 
+    background-color: #FF4B4B; 
+     }  
+

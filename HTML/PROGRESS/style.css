@@ -1,0 +1,9 @@
+.barra progress[value]{ -webkit-appearance: none;
+    appearance: none;}
+
+.barra progress[value]::-webkit-progress-bar{ background-color: #ffffff; 
+         border: 1px solid #000000;
+         border-radius: 50px;}
+
+.barra progress[value]::-webkit-progress-value{background-color: aquamarine;
+border-radius: 50px;}

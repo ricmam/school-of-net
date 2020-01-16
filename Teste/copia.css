@@ -1,0 +1,31 @@
+@charset "UTF-8" 
+
+body{ font-family: Arial, sans-serif; } 
+table#tabela { 
+     font-size: 10px;
+     border:solid 1px #000000;
+     width: 300px; 
+     height: 500px; 
+     
+	float: right; } 
+
+p {text-align: justify;}
+
+table#tabela {border:thin;
+	margin-left: 30px;}
+
+table#tabela td.ce { border: transparent; 
+                     text-align: left; 
+                     font-weight: bold;} 
+
+table#tabela td.cd { border: transparent; 
+                     text-align: left; 
+                      } 
+
+table#tabela td.titulo { border:transparent;
+	                     font-family: Arial, sans-serif;
+	                     font-size: 20px; 
+                         font-weight: bold; 
+                         background-color: #a8a8d8; } 
+
+table#indice { border:; }

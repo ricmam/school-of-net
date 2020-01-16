@@ -1,0 +1,30 @@
+html { box-sizing: border-box; }
+
+*,
+*:before,
+*:after{ box-sizing: inherit; }
+
+body{ margin:0; }
+
+img{ border-style: none; }
+
+button, 
+[type="button"], 
+[type="submit"],
+[type="reset"]{ 
+
+-webkit-appearence: button; }
+
+input {
+    font-size: 1em;
+}
+textarea {
+    overflow: auto;
+    font-size: 1.1em;
+}
+
+[hidden] {
+    display: none;
+}
+
+input{ font-size: 1em;}
